@@ -1,2 +1,2 @@
 # PythonProjects
- Meus projetos em python 
+ My initial Python projects.
